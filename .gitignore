@@ -1,0 +1,6 @@
+# vendor
+vendor/*
+
+# test
+bak.go
+test/*
